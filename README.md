@@ -13,6 +13,6 @@ Fonts for use with LSDj
 ------------ | ---------------- | ------------ | ---------
 ![MRIO](png/MRIO.png) | ![ZERO](png/ZERO.png) | ![PROT](png/PROT.png) | ![STRI](png/STRI.png)
 
-[STR2 - Modified Strider](fonts/STR2.lsdfnt) |
------------------------------------ |
-![STR2](png/STR2.png) |
+[STR2 - Modified Strider](fonts/STR2.lsdfnt) | [SM3U - Super Mario Bros 3 Uppercase](fonts/SM3U.lsdfnt) | [SM3L - Super Mario Bros 3 Lowercase](fonts/SM3L.lsdfnt) | 
+----------------------------------- | ----------------------------------- | ----------------------------------- |
+![STR2](png/STR2.png) | ![SM3U](png/SM3U.png) | ![SM3L](png/SM3L.png) |
