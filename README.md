@@ -3,7 +3,7 @@ Fonts for use with LSDj
 
 <sub>Feel free to submit your own to be added to this repo.</sub>
 
-<sub>Gradius, Zero Wing, and Strider fonts taken from http://nfggames.com/games/fontmaker/lister.php</sub>
+<sub>Gradius, Zero Wing, Strider, and SMB3 fonts taken from http://nfggames.com/games/fontmaker/lister.php</sub>
 
 [COOL - Modified Y2K](fonts/COOL.lsdfnt) | [GRD2 - Gradius 2](fonts/GRD2.lsdfnt) | [GRD3 - Gradius 3](fonts/GRD3.lsdfnt) | [GRD4 - Gradius 4](fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
