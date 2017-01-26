@@ -9,6 +9,10 @@ Fonts for use with LSDj
 ------------------- | ---------------- | ---------------- | ----------------
 ![COOL](png/COOL.png) | ![GRD2](png/GRD2.png) | ![GRD3](png/GRD3.png) | ![GRD4](png/GRD4.png)
 
-[MRIO - Mario](fonts/MRIO.lsdfnt) | [ZERO - Zero Wing](fonts/ZERO.lsdfnt) | [PROT](fonts/PROT.lsdsng) | [STRI - Strider](fonts/STRI.lsdsng)
+[MRIO - Mario](fonts/MRIO.lsdfnt) | [ZERO - Zero Wing](fonts/ZERO.lsdfnt) | [PROT](fonts/PROT.lsdfnt) | [STRI - Strider](fonts/STRI.lsdfnt)
 ------------ | ---------------- | ------------ | ---------
 ![MRIO](png/MRIO.png) | ![ZERO](png/ZERO.png) | ![PROT](png/PROT.png) | ![STRI](png/STRI.png)
+
+[STR2 - Modified Strider](fonts/STR2.lsdfnt) |
+----------------------------------- |
+![STR2](png/STR2.png) |
