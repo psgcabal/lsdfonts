@@ -3,16 +3,28 @@ Fonts for use with LSDj
 
 <sub>Feel free to submit your own to be added to this repo.</sub>
 
+<sub>2048, Sgt Helmet, Tetris, and Tracker fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub>
+
+<sub>Mario and Terminus fonts provided by dawsx and Aquellex</sub>
+
 <sub>Gradius, Zero Wing, Strider, and SMB3 fonts taken from http://nfggames.com/games/fontmaker/lister.php</sub>
 
-[COOL - Modified Y2K](fonts/COOL.lsdfnt) | [GRD2 - Gradius 2](fonts/GRD2.lsdfnt) | [GRD3 - Gradius 3](fonts/GRD3.lsdfnt) | [GRD4 - Gradius 4](fonts/GRD4.lsdfnt)
+[COOL - Modified Y2K](fonts/COOL.lsdfnt) | [Gradius 2](fonts/GRD2.lsdfnt) | [Gradius 3](fonts/GRD3.lsdfnt) | [Gradius 4](fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
 ![COOL](png/COOL.png) | ![GRD2](png/GRD2.png) | ![GRD3](png/GRD3.png) | ![GRD4](png/GRD4.png)
 
-[MRIO - Mario](fonts/MRIO.lsdfnt) | [ZERO - Zero Wing](fonts/ZERO.lsdfnt) | [PROT](fonts/PROT.lsdfnt) | [STRI - Strider](fonts/STRI.lsdfnt)
+[Mario Bros](fonts/dawsx - Super Mario Bros..lsdfnt) | [Modified Mario](fonts/MRIO.lsdfnt) | [Zero Wing](fonts/ZERO.lsdfnt) | [PROT](fonts/PROT.lsdfnt) | 
 ------------ | ---------------- | ------------ | ---------
-![MRIO](png/MRIO.png) | ![ZERO](png/ZERO.png) | ![PROT](png/PROT.png) | ![STRI](png/STRI.png)
+![MRIO](png/MRIO1.png) | ![MRIO](png/MRIO.png) | ![ZERO](png/ZERO.png) | ![PROT](png/PROT.png) |
 
-[STR2 - Modified Strider](fonts/STR2.lsdfnt) | [SM3U - Super Mario Bros 3 Uppercase](fonts/SM3U.lsdfnt) | [SM3L - Super Mario Bros 3 Lowercase](fonts/SM3L.lsdfnt) | 
------------------------------------ | ----------------------------------- | ----------------------------------- |
-![STR2](png/STR2.png) | ![SM3U](png/SM3U.png) | ![SM3L](png/SM3L.png) |
+[Strider](fonts/STRI.lsdfnt) | [Modified Strider](fonts/STR2.lsdfnt) | [Super Mario Bros 3 Uppercase](fonts/SM3U.lsdfnt) | [Super Mario Bros 3 Lowercase](fonts/SM3L.lsdfnt) | 
+----------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
+ ![STRI](png/STRI.png) | ![STR2](png/STR2.png) | ![SM3U](png/SM3U.png) | ![SM3L](png/SM3L.png) |
+
+[2048](fonts/aquellex - 2048 (oerg866).lsdfnt) | [Sgt. Helmet Training Day](fonts/aquellex - Sgt. Helmet Training Day.lsdfnt) | [Tetris](fonts/aquellex - Tetris.lsdfnt) | [Tracker Wide](fonts/aquellex - Tracker Wide.lsdfnt)
+----------------------- | ------------------- | ------------------------ | --------------- |
+![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
+
+[Terminus Lowercase](fonts/dawsx - Terminus Lowercase.lsdfnt) |
+------------------------------------------------------------- |
+![TERM](png/TERM.png)
