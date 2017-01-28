@@ -26,5 +26,5 @@ Fonts for use with LSDj
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
 [\*Terminus Lowercase](fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](fonts/aquellex - Afterburner (Sega).lsdfnt)
-------------------------------------------------------------- |
+----------------- | ----------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | 
