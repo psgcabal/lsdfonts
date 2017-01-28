@@ -1,14 +1,10 @@
 # lsdfonts
-Fonts for use with LSDj
-
-<sub>Feel free to submit your own to be added to this repo.</sub>
-
-<sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub>
-
-<sub>\*\* fonts provided by dawsx and Aquellex</sub>
-
-<sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub>
-
+Fonts for use with LSDj<br />
+<sub>Feel free to submit your own to be added to this repo.</sub><br />
+Instructions: Click on the font name which will take you to the file. Then click Download.<br />
+<sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub><br />
+<sub>\*\* fonts provided by dawsx and Aquellex</sub><br />
+<sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub>
 
 [Modified Y2K](fonts/COOL.lsdfnt) | [\*\*\*Gradius 2](fonts/GRD2.lsdfnt) | [\*\*\*Gradius 3](fonts/GRD3.lsdfnt) | [\*\*\*Gradius 4](fonts/GRD4.lsdfnt)
