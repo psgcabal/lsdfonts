@@ -6,7 +6,7 @@ Fonts for use with LSDj<br />
 <sub>\*\* fonts provided by dawsx and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
-<sub>Trash80 font provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub>
+<sub>† fonts provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub>
 
 [Modified Y2K](https://github.com/urbster1/lsdfonts/raw/master/fonts/COOL.lsdfnt) | [\*\*\*Gradius 2](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD2.lsdfnt) | [\*\*\*Gradius 3](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD3.lsdfnt) | [\*\*\*Gradius 4](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
@@ -24,10 +24,10 @@ Fonts for use with LSDj<br />
 ----------------------- | ------------------- | ------------------------ | --------------- |
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
-[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt)
+[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt)
 ----------------- | ----------------------- | --------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![TR80](png/TR80.png) | 
 
-[Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) |
-------------------- |
-![ZEROmod](png/ZEROmod.png)
+[Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt)
+------------------- | -------------- |
+![ZEROmod](png/ZEROmod.png) | ![GEAR](png/GEAR.png) |
