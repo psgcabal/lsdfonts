@@ -1,4 +1,5 @@
 # lsdfonts
+[//]: # (fuck lol)
 Fonts for use with LSDj<br />
 <sub>Feel free to submit your own to be added to this repo.</sub><br />
 <sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub><br />
@@ -26,3 +27,7 @@ Fonts for use with LSDj<br />
 [\*Terminus Lowercase](fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](fonts/aquellex - Afterburner (Sega).lsdfnt) | [Trash80](fonts/TR80.lsdfnt)
 ----------------- | ----------------------- | --------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![TR80](png/TR80.png) | 
+
+[Modified ZERO](fonts/ZEROmod.lsdfnt) |
+------------------- |
+![ZEROmod](png/ZEROmod.png)
