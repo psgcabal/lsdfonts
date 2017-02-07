@@ -5,8 +5,7 @@ Fonts for use with LSDj<br />
 <sub>\*\* fonts provided by dawsx and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub>
-
-<sub>TR80 font provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub>
+<sub>Trash80 font provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub>
 
 [Modified Y2K](fonts/COOL.lsdfnt) | [\*\*\*Gradius 2](fonts/GRD2.lsdfnt) | [\*\*\*Gradius 3](fonts/GRD3.lsdfnt) | [\*\*\*Gradius 4](fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
