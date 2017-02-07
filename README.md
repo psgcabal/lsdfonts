@@ -5,6 +5,7 @@ Fonts for use with LSDj<br />
 <sub>\*\* fonts provided by dawsx and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub>
+<sub>TR80 font provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub>
 
 [Modified Y2K](fonts/COOL.lsdfnt) | [\*\*\*Gradius 2](fonts/GRD2.lsdfnt) | [\*\*\*Gradius 3](fonts/GRD3.lsdfnt) | [\*\*\*Gradius 4](fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
@@ -22,6 +23,6 @@ Fonts for use with LSDj<br />
 ----------------------- | ------------------- | ------------------------ | --------------- |
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
-[\*Terminus Lowercase](fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](fonts/aquellex - Afterburner (Sega).lsdfnt)
+[\*Terminus Lowercase](fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](fonts/aquellex - Afterburner (Sega).lsdfnt) | [Trash80](fonts/TR80.lsdfnt)
 ----------------- | ----------------------- | --------------------- |
-![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | 
+![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![TR80](png/TR80.png) | 
