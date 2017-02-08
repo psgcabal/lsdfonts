@@ -32,6 +32,6 @@ Fonts for use with LSDj<br />
 ------------------- | -------------- | ---------------- | ----------------- |
 ![TR80](png/TR80.png) | ![GEAR](png/GEAR.png) | ![PCB](png/PCB.png) | ![PKMN](png/PKMN.png) |
 
- [†Pokémon 7x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) | [†Pokémon 7x7 Bold](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKBD.lsdfnt) |
-------------------- | ------------------- | 
-![PKRE](png/PKRE.png) | ![PKBD](png/PKBD.png) | 
+ [†Pokémon 7x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) | [†Pokémon 7x7 Bold](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKBD.lsdfnt) | [†KLAX](https://github.com/urbster1/lsdfonts/raw/master/fonts/KLAX.lsdfnt)
+------------------- | ------------------- | ------------------- | 
+![PKRE](png/PKRE.png) | ![PKBD](png/PKBD.png) | ![KLAX](png/KLAX.png) | 
