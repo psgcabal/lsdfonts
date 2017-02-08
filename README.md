@@ -24,10 +24,10 @@ Fonts for use with LSDj<br />
 ----------------------- | ------------------- | ------------------------ | --------------- |
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
-[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt)
+[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt)
 ----------------- | ----------------------- | --------------------- | --------------------- |
-![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![TR80](png/TR80.png) | 
+![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | 
 
-[Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
+ [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
 ------------------- | -------------- | ---------------- | ----------------- |
-![ZEROmod](png/ZEROmod.png) | ![GEAR](png/GEAR.png) | ![PCB](png/PCB.png) | ![PKMN](png/PKMN.png) |
+![TR80](png/TR80.png) | ![GEAR](png/GEAR.png) | ![PCB](png/PCB.png) | ![PKMN](png/PKMN.png) |
