@@ -28,6 +28,10 @@ Fonts for use with LSDj<br />
 ----------------- | ----------------------- | --------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | 
 
- [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
+ [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
 ------------------- | -------------- | ---------------- | ----------------- |
 ![TR80](png/TR80.png) | ![GEAR](png/GEAR.png) | ![PCB](png/PCB.png) | ![PKMN](png/PKMN.png) |
+
+ [†Pokémon 7x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) |
+------------------- | 
+![PKRE](png/PKRE.png) | 
