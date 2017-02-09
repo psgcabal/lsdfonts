@@ -1,4 +1,4 @@
-# lsdfonts
+# LSDFonts
 [//]: # (fuck lol)
 Fonts for use with LSDj<br />
 <sub>Feel free to submit your own to be added to this repo.</sub><br />
