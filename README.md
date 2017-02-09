@@ -25,9 +25,13 @@ Fonts for use with LSDj<br />
 ----------------------- | ------------------- | ------------------------ | --------------- |
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
-[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | [Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt)
------------------ | ----------------------- | --------------------- | --------------------- | --------------------- |
-![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | ![LCDmod](png/LCD.png) | 
+[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | 
+----------------- | ----------------------- | --------------------- | --------------------- |
+![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | 
+
+[Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt) | [\*\*\*Dangerous Seed](https://github.com/urbster1/lsdfonts/raw/master/fonts/SEED.lsdfnt) |
+--------------------- |--------------------- |
+![LCDmod](png/LCD.png) | ![SEED](png/SEED.png) | 
 
  [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
 ------------------- | -------------- | ---------------- | ----------------- |
