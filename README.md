@@ -29,9 +29,9 @@ Fonts for use with LSDj<br />
 ----------------- | ----------------------- | --------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | 
 
-[Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt) | [\*\*\*Dangerous Seed](https://github.com/urbster1/lsdfonts/raw/master/fonts/SEED.lsdfnt) |
---------------------- |--------------------- |
-![LCDmod](png/LCD.png) | ![SEED](png/SEED.png) | 
+[Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt) | [\*\*\*Dangerous Seed](https://github.com/urbster1/lsdfonts/raw/master/fonts/SEED.lsdfnt) | [\*\*\*Dynamite Dux (slight mod)](https://github.com/urbster1/lsdfonts/raw/master/fonts/DUX.lsdfnt) |
+--------------------- | --------------------- | --------------------- |
+![LCDmod](png/LCD.png) | ![SEED](png/SEED.png) | ![DUX](png/DUX.png) | 
 
  [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
 ------------------- | -------------- | ---------------- | ----------------- |
