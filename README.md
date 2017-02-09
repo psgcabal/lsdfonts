@@ -5,9 +5,9 @@ Fonts for use with LSDj<br />
 <sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub><br />
 <sub>\*\* fonts provided by dawsx and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
-<sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 <sub>† fonts and pretty pictures provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
-<sub>Original LCD font created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub>
+<sub>Original LCD font created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
+<sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 
 [Modified Y2K](https://github.com/urbster1/lsdfonts/raw/master/fonts/COOL.lsdfnt) | [\*\*\*Gradius 2](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD2.lsdfnt) | [\*\*\*Gradius 3](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD3.lsdfnt) | [\*\*\*Gradius 4](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
