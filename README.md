@@ -9,13 +9,13 @@ Fonts for use with LSDj<br />
 <sub>Original LCD font created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 
- [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) |
+ [†Trash80](https://github.com/urbster1/lsdfonts/raw/master/fonts/TR80.lsdfnt) | [†Metal Gear](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) |  [†PCB Artist](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) | [†Pokémon 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) | [†KLAX](https://github.com/urbster1/lsdfonts/raw/master/fonts/KLAX.lsdfnt)
 ------------------- | -------------- | ---------------- | ----------------- |
-![TR80](png/TR80.png) | ![GEAR](png/GEAR.png) | ![PCB](png/PCB.png) | ![PKMN](png/PKMN.png) |
+![TR80](png/TR80.png) | ![GEAR](png/GEAR.png) | ![PCB](png/PCB.png) | ![KLAX](png/KLAX.png) | 
 
- [†Pokémon 7x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) | [†Pokémon 7x7 Bold](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKBD.lsdfnt) | [†KLAX](https://github.com/urbster1/lsdfonts/raw/master/fonts/KLAX.lsdfnt)
+ [†Pokémon 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) | [†Pokémon 7x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) | [†Pokémon 7x7 Bold](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKBD.lsdfnt) | 
 ------------------- | ------------------- | ------------------- | 
-![PKRE](png/PKRE.png) | ![PKBD](png/PKBD.png) | ![KLAX](png/KLAX.png) | 
+|![PKMN](png/PKMN.png) |![PKRE](png/PKRE.png) | ![PKBD](png/PKBD.png) |
 
 [Modified Y2K](https://github.com/urbster1/lsdfonts/raw/master/fonts/COOL.lsdfnt) | [\*\*\*Gradius 2](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD2.lsdfnt) | [\*\*\*Gradius 3](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD3.lsdfnt) | [\*\*\*Gradius 4](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD4.lsdfnt)
 ------------------- | ---------------- | ---------------- | ----------------
