@@ -1,7 +1,7 @@
 # LSDFonts
 [//]: # (fuck lol)
 Fonts for use with LSDj<br />
-<sub>Feel free to submit your own to be added to this repo.</sub><br />
+<sub>Feel free to submit your own to be added to this repo, or let me know if you have a request for a font to be added.</sub><br />
 <sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub><br />
 <sub>\*\* fonts provided by [dawsx](http://chipmusic.org/forums/topic/10946/custom-lsdj-fonts/) and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
