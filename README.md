@@ -41,6 +41,6 @@ Fonts for use with LSDj<br />
 --------------------- | --------------------- | --------------------- | --------------------- |
 ![LCDmod](png/LCD.png) | ![SEED](png/SEED.png) | ![AERO](png/AERO.png) | ![DUX](png/DUX.png) |
 
-|  [\*\*\*Blazing Star](https://github.com/urbster1/lsdfonts/raw/master/fonts/STAR.lsdfnt) |
-| --------------------- |
-|  ![STAR](png/STAR.png) |
+|  [\*\*\*Blazing Star](https://github.com/urbster1/lsdfonts/raw/master/fonts/STAR.lsdfnt) |[\*\*C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64.lsdfnt) |
+| --------------------- | --------------------- |
+|  ![STAR](png/STAR.png) |  ![C64](png/C64.png) |
