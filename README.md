@@ -42,6 +42,6 @@ Click on the title of the font to download<br />
 --------------------- | --------------------- | --------------------- | --------------------- |
 ![LCDmod](png/LCD.png) | ![SEED](png/SEED.png) | ![AERO](png/AERO.png) | ![DUX](png/DUX.png) |
 
-|  [\*\*\*Blazing Star](https://github.com/urbster1/lsdfonts/raw/master/fonts/STAR.lsdfnt) |[\*\*C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64.lsdfnt) | [Modified ZERO 6x7](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZERO6.lsdfnt) | 
+|  [\*\*\*Blazing Star](https://github.com/urbster1/lsdfonts/raw/master/fonts/STAR.lsdfnt) |[\*\*C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64.lsdfnt) | [Modified C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64M.lsdfnt) | 
 | --------------------- | --------------------- | --------------------- |
-|  ![STAR](png/STAR.png) |  ![C64](png/C64.png) | ![ZERO6](png/ZERO6.png) | 
+|  ![STAR](png/STAR.png) |  ![C64](png/C64.png) | ![C64M](png/C64M.png) | 
