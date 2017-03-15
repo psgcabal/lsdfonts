@@ -22,7 +22,7 @@ Click on the title of the font to download<br />
 ------------------- | ---------------- | ---------------- | ----------------
 ![COOL](png/COOL.png) | ![GRD2](png/GRD2.png) | ![GRD3](png/GRD3.png) | ![GRD4](png/GRD4.png)
 
-[\*\*Mario Bros](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Super Mario Bros.lsdfnt) | [\*\*Modified Mario](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) | [\*\*\*Zero Wing](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZERO.lsdfnt) | [PROT](https://github.com/urbster1/lsdfonts/raw/master/fonts/PROT.lsdfnt) | 
+[\*\*Mario Bros](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Super%20Mario%20Bros..lsdfnt) | [\*\*Modified Mario](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) | [\*\*\*Zero Wing](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZERO.lsdfnt) | [PROT](https://github.com/urbster1/lsdfonts/raw/master/fonts/PROT.lsdfnt) | 
 ------------ | ---------------- | ------------ | ---------
 ![MRIO](png/MRIO1.png) | ![MRIO](png/MRIO.png) | ![ZERO](png/ZERO.png) | ![PROT](png/PROT.png) |
 
@@ -30,11 +30,11 @@ Click on the title of the font to download<br />
 ----------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
  ![STRI](png/STRI.png) | ![STR2](png/STR2.png) | ![SM3U](png/SM3U.png) | ![SM3L](png/SM3L.png) |
 
-[\*2048](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - 2048 (oerg866).lsdfnt) | [\*Sgt. Helmet Training Day](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Sgt. Helmet Training Day.lsdfnt) | [\*Tetris](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Tetris.lsdfnt) | [\*Tracker Wide](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Tracker Wide.lsdfnt)
+[\*2048](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%202048%20(oerg866).lsdfnt) | [\*Sgt. Helmet Training Day](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Sgt.%20Helmet%20Training%20Day.lsdfnt) | [\*Tetris](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Tetris.lsdfnt) | [\*Tracker Wide](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Tracker%20Wide.lsdfnt)
 ----------------------- | ------------------- | ------------------------ | --------------- |
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
-[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Terminus Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - The Simpsons (Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex - Afterburner (Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | 
+[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Terminus%20Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20The Simpsons%20(Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | 
 ----------------- | ----------------------- | --------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | 
 
