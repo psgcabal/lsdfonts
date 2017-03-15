@@ -34,7 +34,7 @@ Click on the title of the font to download<br />
 ----------------------- | ------------------- | ------------------------ | --------------- |
 ![2048](png/2048.png) | ![SGT](png/SGT.png) | ![TRIS](png/TRIS.png) | ![TRAK](png/TRAK.png) | 
 
-[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Terminus%20Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20The Simpsons%20(Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | 
+[\*Terminus Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Terminus%20Lowercase.lsdfnt) | [\*\*\*Simpsons](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20The%20Simpsons%20(Konami).lsdfnt) | [\*\*\*Afterburner](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) | [Modified ZERO](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) | 
 ----------------- | ----------------------- | --------------------- | --------------------- |
 ![TERM](png/TERM.png) | ![SIMP](png/SIMP.png) | ![AFTR](png/AFTR.png) | ![ZEROmod](png/ZEROmod.png) | 
 
