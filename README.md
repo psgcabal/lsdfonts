@@ -22,7 +22,7 @@ Click on the title of the font to download<br />
 ------------------- | ---------------- | ---------------- | ----------------
 ![COOL](png/COOL.png) | ![GRD2](png/GRD2.png) | ![GRD3](png/GRD3.png) | ![GRD4](png/GRD4.png)
 
-[\*\*Mario Bros](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Super Mario Bros..lsdfnt) | [\*\*Modified Mario](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) | [\*\*\*Zero Wing](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZERO.lsdfnt) | [PROT](https://github.com/urbster1/lsdfonts/raw/master/fonts/PROT.lsdfnt) | 
+[\*\*Mario Bros](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx - Super Mario Bros.lsdfnt) | [\*\*Modified Mario](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) | [\*\*\*Zero Wing](https://github.com/urbster1/lsdfonts/raw/master/fonts/ZERO.lsdfnt) | [PROT](https://github.com/urbster1/lsdfonts/raw/master/fonts/PROT.lsdfnt) | 
 ------------ | ---------------- | ------------ | ---------
 ![MRIO](png/MRIO1.png) | ![MRIO](png/MRIO.png) | ![ZERO](png/ZERO.png) | ![PROT](png/PROT.png) |
 
