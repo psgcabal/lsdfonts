@@ -1,6 +1,7 @@
 # LSDFonts
 [//]: # (fuck lol)
-Fonts for use with LSDj (using [LSDPatch](https://github.com/jkotlinski/lsdpatch))<br />
+Fonts for use with LSDj (using [LSDPatch](https://github.com/eiyeron/lsdpatch)).<br />
+<sub>Note : this LSDPatcher version is a fork of the [original verision](https://github.com/jkotlinski/lsdpatch) by jkotlinski that allows for PNG import/export with shown font pictures</sub>.<br />
 Click on the title of the font to download<br />
 <sub>Feel free to submit your own to be added to this repo, or let me know if you have a request for a font to be added.</sub><br />
 <sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub><br />
