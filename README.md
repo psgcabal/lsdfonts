@@ -7,7 +7,7 @@ Click on the title of the font to download<br />
 <sub>\* fonts provided by [Aquellex](https://soundcloud.com/aquellex) </sub><br />
 <sub>\*\* fonts provided by [dawsx](http://chipmusic.org/forums/topic/10946/custom-lsdj-fonts/) and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
-<sub>† fonts and pretty pictures provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
+<sub>† fonts provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
 <sub>Original LCD font created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 
