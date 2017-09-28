@@ -12,6 +12,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 <sub>M9MF font provided by [M9M](https://soundcloud.com/m9m_chiptune)</sub><br />
 <sub>IBM Console and Litro fonts provided by [Eiyeron](https://github.com/Eiyeron/)</sub><br />
+<sub>Original Lizard NES font by [bradsmith](http://lizardnes.com)</sub><br />
 
 [2048\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%202048%20(oerg866).lsdfnt) <br /><img src="png/2048.png" width="200" /> <br />
 [Afterburner\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) <br /><img src="png/AFTR.png" width="200" /> <br />
@@ -29,6 +30,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [IBM Console](https://github.com/urbster1/lsdfonts/raw/master/fonts/IBMC.lsdfnt) <br /><img src="png/IBMC.png" width="200" /> <br />
 [Litro Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/LTRL.lsdfnt) <br /><img src="png/LTRL.png" width="200" /> <br />
 [Litro Uppercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/LTRU.lsdfnt) <br /><img src="png/LTRU.png" width="200" /> <br />
+[Lizard NES](https://github.com/urbster1/lsdfonts/raw/master/fonts/LZRD.lsdfnt) <br /><img src="png/LZRD.png" width="200" /> <br />
 [KLAX†](https://github.com/urbster1/lsdfonts/raw/master/fonts/KLAX.lsdfnt)<br /><img src="png/KLAX.png" width="200" /> <br />
 [Mario Bros\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Super%20Mario%20Bros..lsdfnt) <br /><img src="png/MRIO1.png" width="200" /> <br />
 [Modified Mario\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) <br /><img src="png/MRIO.png" width="200" /> <br />
