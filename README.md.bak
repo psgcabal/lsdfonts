@@ -18,6 +18,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Aero Fighters\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/AERO.lsdfnt) <br /><img src="png/AERO.png" width="200" /> <br />
 [Blazing Star\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/STAR.lsdfnt) <br /><img src="png/STAR.png" width="200" /> <br />
 [C64\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64.lsdfnt) <br /><img src="png/C64.png" width="200" /> <br />
+[Modified C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [Dangerous Seed\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/SEED.lsdfnt) <br /><img src="png/SEED.png" width="200" /> <br />
 [Dynamite Dux (slight mod)\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/DUX.lsdfnt) <br /><img src="png/DUX.png" width="200" /> <br />
 [Flak Attack\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/FLAK.lsdfnt) <br /><img src="png/FLAK.png" width="200" /> <br />
@@ -29,11 +30,10 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Litro Uppercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/LTRU.lsdfnt) <br /><img src="png/LTRU.png" width="200" /> <br />
 [KLAX†](https://github.com/urbster1/lsdfonts/raw/master/fonts/KLAX.lsdfnt)<br /><img src="png/KLAX.png" width="200" /> <br />
 [Mario Bros\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Super%20Mario%20Bros..lsdfnt) <br /><img src="png/MRIO1.png" width="200" /> <br />
-[Metal Gear†](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) <br /><img src="png/GEAR.png" width="200" /> <br />
 [Modified Mario\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) <br /><img src="png/MRIO.png" width="200" /> <br />
+[Metal Gear†](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) <br /><img src="png/GEAR.png" width="200" /> <br />
 [Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt) <br /><img src="png/LCD.png" width="200" /> <br />
 [M9MF](https://github.com/urbster1/lsdfonts/raw/master/fonts/M9MF.lsdfnt) <br /><img src="png/M9MF.png" width="200" /> <br />
-[Modified C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [PCB Artist†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) <br /><img src="png/PCB.png" width="200" /> <br />
 [Pokémon 6x7†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) <br /><img src="png/PKMN.png" width="200" /> <br />
 [Pokémon 7x7†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) <br /><img src="png/PKRE.png" width="200" /> <br />
