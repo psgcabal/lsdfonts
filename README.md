@@ -28,7 +28,7 @@ Click on the title of the font to download<br />
 [Litro Lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/LTRL.lsdfnt) <br /><img src="png/LTRL.png" width="200" /> <br />
 [Litro Uppercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/LTRU.lsdfnt) <br /><img src="png/LTRU.png" width="200" /> <br />
 [KLAX†](https://github.com/urbster1/lsdfonts/raw/master/fonts/KLAX.lsdfnt)<br /><img src="png/KLAX.png" width="200" /> <br />
-[Mario Bros\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Super%20Mario%20Bros..lsdfnt) <br />![MRIO](png/MRIO1.png) <br />
+[Mario Bros\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/dawsx%20-%20Super%20Mario%20Bros..lsdfnt) <br /><img src="png/MRIO1.png" width="200" /> <br />
 [Metal Gear†](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) <br /><img src="png/GEAR.png" width="200" /> <br />
 [Modified Mario\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/MRIO.lsdfnt) <br /><img src="png/MRIO.png" width="200" /> <br />
 [Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt) <br /><img src="png/LCD.png" width="200" /> <br />
