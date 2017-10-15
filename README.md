@@ -22,6 +22,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Modified C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [Dangerous Seed\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/SEED.lsdfnt) <br /><img src="png/SEED.png" width="200" /> <br />
 [DOS Uppercase\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/DOSU.lsdfnt) <br /><img src="png/DOSU.png" width="200" /> <br />
+[DOS mod](https://github.com/urbster1/lsdfonts/raw/master/fonts/DOSM.lsdfnt) <br /><img src="png/DOSmod.png" width="200" /> <br />
 [Dynamite Dux (slight mod)\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/DUX.lsdfnt) <br /><img src="png/DUX.png" width="200" /> <br />
 [Flak Attack\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/FLAK.lsdfnt) <br /><img src="png/FLAK.png" width="200" /> <br />
 [Gradius 2\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD2.lsdfnt) <br /><img src="png/GRD2.png" width="200" /> <br />
