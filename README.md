@@ -11,7 +11,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>Original LCD font created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 <sub>M9MF font provided by [M9M](https://soundcloud.com/m9m_chiptune)</sub><br />
-<sub>IBM Console and Litro fonts provided by [Eiyeron](https://github.com/Eiyeron/)</sub><br />
+<sub>IBM Console, Flixel/Nokia Cellphone FC, Litro fonts provided by [Eiyeron](https://github.com/Eiyeron/)</sub><br />
 <sub>Original Lizard NES font by [bradsmith](http://lizardnes.com)</sub><br />
 
 [2048\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%202048%20(oerg866).lsdfnt) <br /><img src="png/2048.png" width="200" /> <br />
@@ -25,6 +25,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [DOS mod](https://github.com/urbster1/lsdfonts/raw/master/fonts/DOSM.lsdfnt) <br /><img src="png/DOSmod.png" width="200" /> <br />
 [Dynamite Dux (slight mod)\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/DUX.lsdfnt) <br /><img src="png/DUX.png" width="200" /> <br />
 [Flak Attack\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/FLAK.lsdfnt) <br /><img src="png/FLAK.png" width="200" /> <br />
+[Flixel](https://github.com/urbster1/lsdfonts/raw/master/fonts/LTRL.lsdfnt) <br /><img src="png/FLXL.png" width="200" /> <br />
 [Gradius 2\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD2.lsdfnt) <br /><img src="png/GRD2.png" width="200" /> <br />
 [Gradius 3\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD3.lsdfnt) <br /><img src="png/GRD3.png" width="200" /> <br />
 [Gradius 4\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/GRD4.lsdfnt) <br /><img src="png/GRD4.png" width="200" /> <br />
