@@ -8,13 +8,15 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>\*\* fonts provided by [dawsx](http://chipmusic.org/forums/topic/10946/custom-lsdj-fonts/) and Aquellex</sub><br />
 <sub>\*\*\* fonts taken from http://nfggames.com/games/fontmaker/lister.php with help from Aquellex</sub><br />
 <sub>† fonts provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
-<sub>Original LCD font created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
+<sub>Original LCD and 7 fonts created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
 <sub>M9MF font provided by [M9M](https://soundcloud.com/m9m_chiptune)</sub><br />
 <sub>IBM Console, Flixel/Nokia Cellphone FC, Litro fonts provided by [Eiyeron](https://github.com/Eiyeron/)</sub><br />
 <sub>Original Lizard NES font by [bradsmith](http://lizardnes.com)</sub><br />
 <sub> Original Monofur font from [http://eurofurence.net/monofur.html](http://eurofurence.net/monofur.html)</sub><br />
 
+[7\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7.lsdfnt) <br /><img src="png/7.png" width="200" /> <br />
+[7MOD\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7MOD.lsdfnt) <br /><img src="png/7MOD.png" width="200" /> <br />
 [2048\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%202048%20(oerg866).lsdfnt) <br /><img src="png/2048.png" width="200" /> <br />
 [Afterburner\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) <br /><img src="png/AFTR.png" width="200" /> <br />
 [Aero Fighters\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/AERO.lsdfnt) <br /><img src="png/AERO.png" width="200" /> <br />
