@@ -10,10 +10,11 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>† fonts provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
 <sub>Original LCD and 7 fonts created by [SurfaceDragon](http://chipmusic.org/forums/topic/4916/lsdj-ips-graphics-patch-more/)</sub><br />
 <sub>PROT font provided by [Zenkomani](https://soundcloud.com/zenkomani)</sub><br />
-<sub>M9MF font provided by [M9M](https://soundcloud.com/m9m_chiptune)</sub><br />
+<sub>M9MF font provided by [MelonadeM](https://twitter.com/_melonadem)</sub><br />
 <sub>IBM Console, Flixel/Nokia Cellphone FC, Litro fonts provided by [Eiyeron](https://github.com/Eiyeron/)</sub><br />
 <sub>Original Lizard NES font by [bradsmith](http://lizardnes.com)</sub><br />
 <sub> Original Monofur font from [http://eurofurence.net/monofur.html](http://eurofurence.net/monofur.html)</sub><br />
+<sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
 
 [7\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7.lsdfnt) <br /><img src="png/7.png" width="200" /> <br />
 [7MOD\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7MOD.lsdfnt) <br /><img src="png/7MOD.png" width="200" /> <br />
@@ -50,6 +51,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [PROT](https://github.com/urbster1/lsdfonts/raw/master/fonts/PROT.lsdfnt) <br /><img src="png/PROT.png" width="200" /> <br />
 [Sgt. Helmet Training Day\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Sgt.%20Helmet%20Training%20Day.lsdfnt) <br /><img src="png/SGT.png" width="200" /> <br />
 [Simpsons\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20The%20Simpsons%20(Konami).lsdfnt) <br /><img src="png/SIMP.png" width="200" /> <br />
+[SMOL](https://github.com/psgcabal/lsdfonts/raw/master/fonts/SMOL.lsdfnt) <br /><img src="png/SMOL.png" width="200" /> <br />
 [Strider\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/STRI.lsdfnt) <br /><img src="png/STRI.png" width="200" /> <br />
 [Modified Strider](https://github.com/urbster1/lsdfonts/raw/master/fonts/STR2.lsdfnt) <br /><img src="png/STR2.png" width="200" /> <br />
 [Super Mario Bros 3 Lowercase\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/SM3L.lsdfnt) <br /><img src="png/SM3L.png" width="200" /> <br />
