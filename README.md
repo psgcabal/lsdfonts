@@ -45,6 +45,8 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Monofur](https://github.com/urbster1/lsdfonts/raw/master/fonts/MONO.lsdfnt) <br /><img src="png/MONO.png" width="200" /> <br />
 [M9MF](https://github.com/urbster1/lsdfonts/raw/master/fonts/M9MF.lsdfnt) <br /><img src="png/M9MF.png" width="200" /> <br />
 [PCB Artist†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) <br /><img src="png/PCB.png" width="200" /> <br />
+[PICO8](https://github.com/urbster1/lsdfonts/raw/master/fonts/pico.lsdfnt) <br /><img src="png/pico.png" width="200" /> <br />
+[PICO8 lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/pico-small.lsdfnt) <br /><img src="png/pico-small.png" width="200" /> <br />
 [Pokémon 6x7†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKMN.lsdfnt) <br /><img src="png/PKMN.png" width="200" /> <br />
 [Pokémon 7x7†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKRE.lsdfnt) <br /><img src="png/PKRE.png" width="200" /> <br />
 [Pokémon 7x7 Bold†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PKBD.lsdfnt) <br /><img src="png/PKBD.png" width="200" /> <br />
