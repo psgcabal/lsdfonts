@@ -43,6 +43,8 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Metal Gear†](https://github.com/urbster1/lsdfonts/raw/master/fonts/GEAR.lsdfnt) <br /><img src="png/GEAR.png" width="200" /> <br />
 [Modified LCD](https://github.com/urbster1/lsdfonts/raw/master/fonts/LCD.lsdfnt) <br /><img src="png/LCD.png" width="200" /> <br />
 [Monofur](https://github.com/urbster1/lsdfonts/raw/master/fonts/MONO.lsdfnt) <br /><img src="png/MONO.png" width="200" /> <br />
+[Monofur (No aliasing)](https://github.com/urbster1/lsdfonts/raw/master/fonts/monofur-noalias.lsdfnt) <br /><img src="png/monofur-noalias.png" width="200" /> <br />
+[Monofur Caps (No aliasing)](https://github.com/urbster1/lsdfonts/raw/master/fonts/monofur-caps-noalias.lsdfnt) <br /><img src="png/monofur-caps-noalias.png" width="200" /> <br />
 [M9MF](https://github.com/urbster1/lsdfonts/raw/master/fonts/M9MF.lsdfnt) <br /><img src="png/M9MF.png" width="200" /> <br />
 [PCB Artist†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) <br /><img src="png/PCB.png" width="200" /> <br />
 [PICO8](https://github.com/urbster1/lsdfonts/raw/master/fonts/pico.lsdfnt) <br /><img src="png/pico.png" width="200" /> <br />
