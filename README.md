@@ -15,6 +15,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>Original Lizard NES font by [bradsmith](http://lizardnes.com)</sub><br />
 <sub> Original Monofur font from [http://eurofurence.net/monofur.html](http://eurofurence.net/monofur.html)</sub><br />
 <sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
+<sub>Original NEScape! font by [Kevin Hanley](https://khangames.itch.io/nescape)</sub><br />
 
 [7\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7.lsdfnt) <br /><img src="png/7.png" width="200" /> <br />
 [7MOD\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7MOD.lsdfnt) <br /><img src="png/7MOD.png" width="200" /> <br />
@@ -46,6 +47,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Monofur (No aliasing)](https://github.com/urbster1/lsdfonts/raw/master/fonts/monofur-noalias.lsdfnt) <br /><img src="png/monofur-noalias.png" width="200" /> <br />
 [Monofur Caps (No aliasing)](https://github.com/urbster1/lsdfonts/raw/master/fonts/monofur-caps-noalias.lsdfnt) <br /><img src="png/monofur-caps-noalias.png" width="200" /> <br />
 [M9MF](https://github.com/urbster1/lsdfonts/raw/master/fonts/M9MF.lsdfnt) <br /><img src="png/M9MF.png" width="200" /> <br />
+[NEScape! (slight mod)](https://github.com/urbster1/lsdfonts/raw/master/fonts/nescape.lsdfnt) <br /><img src="png/nescape.png" width="200" /> <br />
 [PCB Artist†](https://github.com/urbster1/lsdfonts/raw/master/fonts/PCB.lsdfnt) <br /><img src="png/PCB.png" width="200" /> <br />
 [PICO8](https://github.com/urbster1/lsdfonts/raw/master/fonts/pico.lsdfnt) <br /><img src="png/pico.png" width="200" /> <br />
 [PICO8 lowercase](https://github.com/urbster1/lsdfonts/raw/master/fonts/pico-small.lsdfnt) <br /><img src="png/pico-small.png" width="200" /> <br />
