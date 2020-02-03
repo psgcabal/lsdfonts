@@ -16,6 +16,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub> Original Monofur font from [http://eurofurence.net/monofur.html](http://eurofurence.net/monofur.html)</sub><br />
 <sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
 <sub>Original NEScape! font by [Kevin Hanley](https://khangames.itch.io/nescape)</sub><br />
+<sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
 
 [7\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7.lsdfnt) <br /><img src="png/7.png" width="200" /> <br />
 [7MOD\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/7MOD.lsdfnt) <br /><img src="png/7MOD.png" width="200" /> <br />
@@ -23,6 +24,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Afterburner\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) <br /><img src="png/AFTR.png" width="200" /> <br />
 [Aero Fighters\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/AERO.lsdfnt) <br /><img src="png/AERO.png" width="200" /> <br />
 [Blazing Star\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/STAR.lsdfnt) <br /><img src="png/STAR.png" width="200" /> <br />
+[BUBL](https://github.com/urbster1/lsdfonts/raw/master/fonts/BUBL.lsdfnt) <br /><img src="png/BUBL.png" width="200" /> <br />
 [C64\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64.lsdfnt) <br /><img src="png/C64.png" width="200" /> <br />
 [Modified C64](https://github.com/urbster1/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [Dangerous Seed\*\*\*](https://github.com/urbster1/lsdfonts/raw/master/fonts/SEED.lsdfnt) <br /><img src="png/SEED.png" width="200" /> <br />
