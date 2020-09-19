@@ -17,7 +17,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
 <sub>Original NEScape! font by [Kevin Hanley](https://khangames.itch.io/nescape)</sub><br />
 <sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
-<sub>DUMB and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
+<sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
 
 [1943\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/1943.lsdfnt) <br /><img src="png/1943.png" width="200" /> <br />
 [7\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/7.lsdfnt) <br /><img src="png/7.png" width="200" /> <br />
@@ -30,6 +30,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [C64\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/C64.lsdfnt) <br /><img src="png/C64.png" width="200" /> <br />
 [Modified C64](https://github.com/psgcabal/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [Dangerous Seed\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/SEED.lsdfnt) <br /><img src="png/SEED.png" width="200" /> <br />
+[DEFF](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DEFF.lsdfnt) <br /><img src="png/DEFF.png" width="200" /> <br />
 [DOS Uppercase\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DOSU.lsdfnt) <br /><img src="png/DOSU.png" width="200" /> <br />
 [DOS mod](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DOSM.lsdfnt) <br /><img src="png/DOSmod.png" width="200" /> <br />
 [DUMB](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DUMB.lsdfnt) <br /><img src="png/DUMB.png" width="200" /> <br />
