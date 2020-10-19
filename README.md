@@ -36,7 +36,6 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Modified C64](https://github.com/psgcabal/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [Dangerous Seed\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/SEED.lsdfnt) <br /><img src="png/SEED.png" width="200" /> <br />
 [DEFF](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DEFF.lsdfnt) <br /><img src="png/DEFF.png" width="200" /> <br />
-[DEKO](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DEKO.lsdfnt) <br /><img src="png/DEKO.png" width="200" /> <br />
 [DOS Uppercase\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DOSU.lsdfnt) <br /><img src="png/DOSU.png" width="200" /> <br />
 [DOS mod](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DOSM.lsdfnt) <br /><img src="png/DOSmod.png" width="200" /> <br />
 [DUMB](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DUMB.lsdfnt) <br /><img src="png/DUMB.png" width="200" /> <br />
