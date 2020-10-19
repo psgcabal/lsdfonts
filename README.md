@@ -16,20 +16,27 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
 <sub>Original NEScape! font by [Kevin Hanley](https://khangames.itch.io/nescape)</sub><br />
 <sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
-<sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
+<sub>DEFF, DEKO, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
+<sub>BOLD and NICE fonts provided by [Kabcorp](https://www.youtube.com/channel/UCssWueVur72RA0754f3GBdA)</sub><br />
+<sub>ALKI, KRYZ, and OUTLINE fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
+<sub>If you have provided a font and have not been credited, please feel free to reach out or submit a pull request by editing this README.</sub><br />
 
-[1943\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/1943.lsdfnt) <br /><img src="png/1943.png" width="200" /> <br />
 [7\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/7.lsdfnt) <br /><img src="png/7.png" width="200" /> <br />
 [7MOD\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/7MOD.lsdfnt) <br /><img src="png/7MOD.png" width="200" /> <br />
-[2048\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%202048%20(oerg866).lsdfnt) <br /><img src="png/2048.png" width="200" /> <br />
-[Afterburner\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20(Sega).lsdfnt) <br /><img src="png/AFTR.png" width="200" /> <br />
+[1943\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/1943.lsdfnt) <br /><img src="png/1943.png" width="200" /> <br />
+[2048\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%202048%20%28oerg866%29.lsdfnt) <br /><img src="png/2048.png" width="200" /> <br />
 [Aero Fighters\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/AERO.lsdfnt) <br /><img src="png/AERO.png" width="200" /> <br />
+[Afterburner\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%20Afterburner%20%28Sega%29.lsdfnt) <br /><img src="png/AFTR.png" width="200" /> <br />
+[ALKI](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ALKI.lsdfnt) <br /><img src="png/ALKI.png" width="200" /> <br />
 [Blazing Star\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/STAR.lsdfnt) <br /><img src="png/STAR.png" width="200" /> <br />
+[BOLD](https://github.com/psgcabal/lsdfonts/raw/master/fonts/BOLD.lsdfnt) <br /><img src="png/BOLD.png" width="200" /> <br />
+[BOOM](https://github.com/psgcabal/lsdfonts/raw/master/fonts/BOOM.lsdfnt) <br /><img src="png/BOOM.png" width="200" /> <br />
 [BUBL](https://github.com/psgcabal/lsdfonts/raw/master/fonts/BUBL.lsdfnt) <br /><img src="png/BUBL.png" width="200" /> <br />
 [C64\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/C64.lsdfnt) <br /><img src="png/C64.png" width="200" /> <br />
 [Modified C64](https://github.com/psgcabal/lsdfonts/raw/master/fonts/C64M.lsdfnt) <br /><img src="png/C64M.png" width="200" /> <br />
 [Dangerous Seed\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/SEED.lsdfnt) <br /><img src="png/SEED.png" width="200" /> <br />
 [DEFF](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DEFF.lsdfnt) <br /><img src="png/DEFF.png" width="200" /> <br />
+[DEKO](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DEKO.lsdfnt) <br /><img src="png/DEKO.png" width="200" /> <br />
 [DOS Uppercase\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DOSU.lsdfnt) <br /><img src="png/DOSU.png" width="200" /> <br />
 [DOS mod](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DOSM.lsdfnt) <br /><img src="png/DOSmod.png" width="200" /> <br />
 [DUMB](https://github.com/psgcabal/lsdfonts/raw/master/fonts/DUMB.lsdfnt) <br /><img src="png/DUMB.png" width="200" /> <br />
@@ -44,6 +51,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Litro Uppercase](https://github.com/psgcabal/lsdfonts/raw/master/fonts/LTRU.lsdfnt) <br /><img src="png/LTRU.png" width="200" /> <br />
 [Lizard NES](https://github.com/psgcabal/lsdfonts/raw/master/fonts/LZRD.lsdfnt) <br /><img src="png/LZRD.png" width="200" /> <br />
 [KLAX†](https://github.com/psgcabal/lsdfonts/raw/master/fonts/KLAX.lsdfnt)<br /><img src="png/KLAX.png" width="200" /> <br />
+[KRYZ](https://github.com/psgcabal/lsdfonts/raw/master/fonts/KRYZ.lsdfnt) <br /><img src="png/KRYZ.png" width="200" /> <br />
 [Mario Bros\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/dawsx%20-%20Super%20Mario%20Bros..lsdfnt) <br /><img src="png/MRIO1.png" width="200" /> <br />
 [Modified Mario\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/MRIO.lsdfnt) <br /><img src="png/MRIO.png" width="200" /> <br />
 [MECH](https://github.com/psgcabal/lsdfonts/raw/master/fonts/mech.lsdfnt) <br /><img src="png/mech.png" width="200" /> <br />
@@ -54,6 +62,9 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Monofur Caps (No aliasing)](https://github.com/psgcabal/lsdfonts/raw/master/fonts/monofur-caps-noalias.lsdfnt) <br /><img src="png/monofur-caps-noalias.png" width="200" /> <br />
 [M9MF](https://github.com/psgcabal/lsdfonts/raw/master/fonts/M9MF.lsdfnt) <br /><img src="png/M9MF.png" width="200" /> <br />
 [NEScape! (slight mod)](https://github.com/psgcabal/lsdfonts/raw/master/fonts/nescape.lsdfnt) <br /><img src="png/nescape.png" width="200" /> <br />
+[NICE](https://github.com/psgcabal/lsdfonts/raw/master/fonts/NICE.lsdfnt) <br /><img src="png/NICE.png" width="200" /> <br />
+[NIMA](https://github.com/psgcabal/lsdfonts/raw/master/fonts/NIMA.lsdfnt) <br /><img src="png/NIMA.png" width="200" /> <br />
+[OUTL](https://github.com/psgcabal/lsdfonts/raw/master/fonts/OUTL.lsdfnt) <br /><img src="png/OUTLINE.png" width="200" /> <br />
 [PCB Artist†](https://github.com/psgcabal/lsdfonts/raw/master/fonts/PCB.lsdfnt) <br /><img src="png/PCB.png" width="200" /> <br />
 [PICO8](https://github.com/psgcabal/lsdfonts/raw/master/fonts/pico.lsdfnt) <br /><img src="png/pico.png" width="200" /> <br />
 [PICO8 lowercase](https://github.com/psgcabal/lsdfonts/raw/master/fonts/pico-small.lsdfnt) <br /><img src="png/pico-small.png" width="200" /> <br />
@@ -63,7 +74,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [PROT](https://github.com/psgcabal/lsdfonts/raw/master/fonts/PROT.lsdfnt) <br /><img src="png/PROT.png" width="200" /> <br />
 [Renoise](https://github.com/psgcabal/lsdfonts/raw/master/fonts/renoise.lsdfnt) <br /><img src="png/Renoise.png" width="200" /> <br />
 [Sgt. Helmet Training Day\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%20Sgt.%20Helmet%20Training%20Day.lsdfnt) <br /><img src="png/SGT.png" width="200" /> <br />
-[Simpsons\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%20The%20Simpsons%20(Konami).lsdfnt) <br /><img src="png/SIMP.png" width="200" /> <br />
+[Simpsons\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/aquellex%20-%20The%20Simpsons%20%28Konami%29.lsdfnt) <br /><img src="png/SIMP.png" width="200" /> <br />
 [SMOL](https://github.com/psgcabal/lsdfonts/raw/master/fonts/SMOL.lsdfnt) <br /><img src="png/SMOL.png" width="200" /> <br />
 [Strider\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/STRI.lsdfnt) <br /><img src="png/STRI.png" width="200" /> <br />
 [Modified Strider](https://github.com/psgcabal/lsdfonts/raw/master/fonts/STR2.lsdfnt) <br /><img src="png/STR2.png" width="200" /> <br />
