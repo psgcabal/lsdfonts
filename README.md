@@ -16,7 +16,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
 <sub>Original NEScape! font by [Kevin Hanley](https://khangames.itch.io/nescape)</sub><br />
 <sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
-<sub>DEFF, DEKO, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
+<sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
 <sub>BOLD and NICE fonts provided by [Kabcorp](https://www.youtube.com/channel/UCssWueVur72RA0754f3GBdA)</sub><br />
 <sub>ALKI, KRYZ, and OUTLINE fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
 <sub>If you have provided a font and have not been credited, please feel free to reach out or submit a pull request by editing this README.</sub><br />
