@@ -87,7 +87,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Twin Cobra\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/twincobra.lsdfnt) <br /><img src="png/twincobra.png" width="200" /> <br />
 [Twin Qix\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/twinqix.lsdfnt) <br /><img src="png/twinqix.png" width="200" /> <br />
 [Twinbee\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/twin.lsdfnt) <br /><img src="png/twin.png" width="200" /> <br />
-[Virt](https://github.com/psgcabal/lsdfonts/raw/master/png/microd-virt-contrast.png) <br /><img src="png/microd-virt-contrast.png" width="200" /> <br />
+[Virt Contrast - First LSDj font to include all GFX elements. 100% re-drawn.](https://github.com/psgcabal/lsdfonts/raw/master/png/microd-virt-contrast.png) <br /><img src="png/microd-virt-contrast.png" width="200" /> <br />
 [Wild Pilot\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/wildpilot.lsdfnt) <br /><img src="png/wildpilot.png" width="200" /> <br />
 [Modified Y2K](https://github.com/psgcabal/lsdfonts/raw/master/fonts/COOL.lsdfnt) <br /><img src="png/COOL.png" width="200" /> <br />
 [Zero Wing\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZERO.lsdfnt) <br /><img src="png/ZERO.png" width="200" /> <br />
