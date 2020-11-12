@@ -18,7 +18,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 <sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
 <sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
 <sub>BOLD and NICE fonts provided by [Kabcorp](https://www.youtube.com/channel/UCssWueVur72RA0754f3GBdA)</sub><br />
-<sub>ALKI, KRYZ, and OUTLINE fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
+<sub>ALKI, KRYZ, OUTLINE, and ZEPHYR fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
 <sub>VIRT font provided by [MicroD](https://mirodmusic.com)</sub><br />
 <sub>If you have provided a font and have not been credited, please feel free to reach out or submit a pull request by editing this README.</sub><br />
 
@@ -91,6 +91,7 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [Wild Pilot\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/wildpilot.lsdfnt) <br /><img src="png/wildpilot.png" width="200" /> <br />
 [Modified Y2K](https://github.com/psgcabal/lsdfonts/raw/master/fonts/COOL.lsdfnt) <br /><img src="png/COOL.png" width="200" /> <br />
 [Zero Wing\*\*\*](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZERO.lsdfnt) <br /><img src="png/ZERO.png" width="200" /> <br />
+[ZEPHYR](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEPHYR.lsdfnt) <br /><img src="png/ZEPHYR.png" width="200" /> <br />
 [Modified ZERO](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) <br /><img src="png/ZEROmod.png" width="200" /> <br />
 [Modified ZERO 6x7](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZERO6.lsdfnt) <br /><img src="png/ZERO6.png" width="200" /> <br />
 [Modified ZERO 2, the most readable LSDj font in existence](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEROmod2.lsdfnt) <br /><img src="png/ZEROmod2.png" width="200" /> <br />
