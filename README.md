@@ -94,4 +94,4 @@ Click on the title of the font to download the .lsdfnt, or click on the image to
 [ZEPHYR](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEPHYR.lsdfnt) <br /><img src="png/ZEPHYR.png" width="200" /> <br />
 [Modified ZERO](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEROmod.lsdfnt) <br /><img src="png/ZEROmod.png" width="200" /> <br />
 [Modified ZERO 6x7](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZERO6.lsdfnt) <br /><img src="png/ZERO6.png" width="200" /> <br />
-[Modified ZERO 2, the most readable LSDj font in existence](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEROmod2.lsdfnt) <br /> <img src="png/ZEROmod2.png" width="200" /> <br />
+[Modified ZERO 2, the most readable LSDj font in existence](https://github.com/psgcabal/lsdfonts/raw/master/fonts/ZEROmod2.lsdfnt) <br /><img src="png/ZEROmod2.png" width="200" /> <br />
