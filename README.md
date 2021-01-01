@@ -18,7 +18,7 @@ Click on the image to download the PNG.<br />
 <sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
 <sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
 <sub>BOLD and NICE fonts provided by [Kabcorp](https://www.youtube.com/channel/UCssWueVur72RA0754f3GBdA)</sub><br />
-<sub>ALKI, KRYZ, and OUTLINE fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
+<sub>ALKI, KRYZ, OUTLINE, and ZEPHYR fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
 <sub>VIRT font provided by [MicroD](https://mirodmusic.com)</sub><br />
 <sub>RVN font provided by [Ravancloak](https://ravancloak.bandcamp.com/)</sub><br />
 <sub>If you have provided a font and have not been credited, please feel free to reach out or submit a pull request by editing this README.</sub><br />
@@ -78,8 +78,7 @@ RVN <br /><img src="png/RVN.png" width="200" /> <br />
 Sgt. Helmet Training Day\* <br /><img src="png/SGT.png" width="200" /> <br />
 Simpsons\*\*\* <br /><img src="png/SIMP.png" width="200" /> <br />
 SMOL <br /><img src="png/SMOL.png" width="200" /> <br />
-Sonic Robo Blast 2 Console\* <br /><img src="png/Sonic Robo Blast 2 Console.png" width="200" /> <br 
-/>
+Sonic Robo Blast 2 Console\* <br /><img src="png/Sonic Robo Blast 2 Console.png" width="200" /> <br />
 Strider\*\*\* <br /><img src="png/STRI.png" width="200" /> <br />
 Modified Strider <br /><img src="png/STR2.png" width="200" /> <br />
 Super Mario Bros 3 Lowercase\*\*\* <br /><img src="png/SM3L.png" width="200" /> <br />
