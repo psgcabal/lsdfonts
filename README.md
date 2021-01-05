@@ -15,7 +15,7 @@ Click on the image to download the PNG.<br />
 <sub>Original Monofur font from [http://eurofurence.net/monofur.html](http://eurofurence.net/monofur.html)</sub><br />
 <sub>SMOL font provided by [toasterpastries](https://twitter.com/t0asterpastries)</sub><br />
 <sub>Original NEScape! font by [Kevin Hanley](https://khangames.itch.io/nescape)</sub><br />
-<sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
+<sub>BUBL font provided by [.exe](https://dotexe.space)</sub><br />
 <sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
 <sub>BOLD and NICE fonts provided by [Kabcorp](https://www.youtube.com/channel/UCssWueVur72RA0754f3GBdA)</sub><br />
 <sub>ALKI, CIRC, KRYZ, OUTLINE, OPTC and ZEPHYR fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
