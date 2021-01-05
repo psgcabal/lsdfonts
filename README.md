@@ -18,7 +18,7 @@ Click on the image to download the PNG.<br />
 <sub>BUBL font provided by [.exe](https://twitter.com/dotexechiptune)</sub><br />
 <sub>DEFF, DUMB, and MECH fonts provided by [DEFENSE MECHANISM](https://defensemech.com)</sub><br />
 <sub>BOLD and NICE fonts provided by [Kabcorp](https://www.youtube.com/channel/UCssWueVur72RA0754f3GBdA)</sub><br />
-<sub>ALKI, KRYZ, OUTLINE, and ZEPHYR fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
+<sub>ALKI, CIRC, KRYZ, OUTLINE, OPTC and ZEPHYR fonts provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
 <sub>VIRT font provided by [MicroD](https://mirodmusic.com)</sub><br />
 <sub>RVN font provided by [Ravancloak](https://ravancloak.bandcamp.com/)</sub><br />
 <sub>If you have provided a font and have not been credited, please feel free to reach out or submit a pull request by editing this README.</sub><br />
@@ -36,6 +36,7 @@ BOOM <br /><img src="png/BOOM.png" width="200" /> <br />
 BUBL <br /><img src="png/BUBL.png" width="200" /> <br />
 C64\*\* <br /><img src="png/C64.png" width="200" /> <br />
 Modified C64 <br /><img src="png/C64M.png" width="200" /> <br />
+CIRC <br /><img src="png/CIRC.png" width="200" /> <br />
 Dangerous Seed\*\*\* <br /><img src="png/SEED.png" width="200" /> <br />
 DEFF <br /><img src="png/DEFF.png" width="200" /> <br />
 DOS Uppercase\* <br /><img src="png/DOSU.png" width="200" /> <br />
@@ -65,6 +66,7 @@ M9MF <br /><img src="png/M9MF.png" width="200" /> <br />
 NEScape! (slight mod) <br /><img src="png/nescape.png" width="200" /> <br />
 NICE <br /><img src="png/NICE.png" width="200" /> <br />
 NIMA <br /><img src="png/NIMA.png" width="200" /> <br />
+OPTC <br /><img src="png/OPTC.png" width="200" /> <br />
 OUTL <br /><img src="png/OUTLINE.png" width="200" /> <br />
 PCB Artist† <br /><img src="png/PCB.png" width="200" /> <br />
 PICO8 <br /><img src="png/pico.png" width="200" /> <br />
@@ -93,6 +95,7 @@ Twinbee\*\*\* <br /><img src="png/twin.png" width="200" /> <br />
 Virt <br /><img src="png/microd-virt-contrast.png" width="200" /> <br />
 Wild Pilot\*\*\* <br /><img src="png/wildpilot.png" width="200" /> <br />
 Modified Y2K <br /><img src="png/COOL.png" width="200" /> <br />
+ZEPHYR <br /><img src="png/ZEPHYR.png" width="200" /> <br />
 Zero Wing\*\*\* <br /><img src="png/ZERO.png" width="200" /> <br />
 Modified ZERO <br /><img src="png/ZEROmod.png" width="200" /> <br />
 Modified ZERO 6x7 <br /><img src="png/ZERO6.png" width="200" /> <br />
