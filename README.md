@@ -36,6 +36,7 @@ BOOM <br /><img src="png/BOOM.png" width="200" /> <br />
 BUBL <br /><img src="png/BUBL.png" width="200" /> <br />
 C64\*\* <br /><img src="png/C64.png" width="200" /> <br />
 Modified C64 <br /><img src="png/C64M.png" width="200" /> <br />
+Castlevania 3<br /><img src="png/Castlevania3.png" width="200" /> <br />
 CIRC <br /><img src="png/CIRC.png" width="200" /> <br />
 Dangerous Seed\*\*\* <br /><img src="png/SEED.png" width="200" /> <br />
 DEFF <br /><img src="png/DEFF.png" width="200" /> <br />
@@ -53,6 +54,7 @@ Litro Lowercase <br /><img src="png/LTRL.png" width="200" /> <br />
 Litro Uppercase <br /><img src="png/LTRU.png" width="200" /> <br />
 Lizard NES <br /><img src="png/LZRD.png" width="200" /> <br />
 KLAX†<br /><img src="png/KLAX.png" width="200" /> <br />
+Konami NES<br /><img src="png/KonamiNES.png" width="200" /> <br />
 KRYZ <br /><img src="png/KRYZ.png" width="200" /> <br />
 Mario Bros\*\* <br /><img src="png/MRIO1.png" width="200" /> <br />
 Modified Mario\*\* <br /><img src="png/MRIO.png" width="200" /> <br />
