@@ -68,8 +68,9 @@ M9MF <br /><img src="png/M9MF.png" width="200" /> <br />
 NEScape! (slight mod) <br /><img src="png/nescape.png" width="200" /> <br />
 NICE <br /><img src="png/NICE.png" width="200" /> <br />
 NIMA <br /><img src="png/NIMA.png" width="200" /> <br />
+NOSHADE<br /><img src="png/NOSHADE.png" width="200" /> <br />
 OPTC <br /><img src="png/OPTC.png" width="200" /> <br />
-OUTL <br /><img src="png/OUTLINE.png" width="200" /> <br />
+OUTLINE <br /><img src="png/OUTLINE.png" width="200" /> <br />
 PCB Artist† <br /><img src="png/PCB.png" width="200" /> <br />
 PICO8 <br /><img src="png/pico.png" width="200" /> <br />
 PICO8 lowercase <br /><img src="png/pico-small.png" width="200" /> <br />
@@ -80,6 +81,7 @@ PROT <br /><img src="png/PROT.png" width="200" /> <br />
 Renoise <br /><img src="png/Renoise.png" width="200" /> <br />
 RVN <br /><img src="png/RVN.png" width="200" /> <br />
 Sgt. Helmet Training Day\* <br /><img src="png/SGT.png" width="200" /> <br />
+SHADED<br /><img src="png/SHADED.png" width="200" /> <br />
 Simpsons\*\*\* <br /><img src="png/SIMP.png" width="200" /> <br />
 SMOL <br /><img src="png/SMOL.png" width="200" /> <br />
 Sonic Robo Blast 2 Console\* <br /><img src="png/Sonic Robo Blast 2 Console.png" width="200" /> <br />
