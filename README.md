@@ -30,34 +30,81 @@ Click on the image to download the PNG.<br />
 Aero Fighters\*\*\* <br /><img src="png/AERO.png" width="200" /> <br />
 Afterburner\*\*\* <br /><img src="png/AFTR.png" width="200" /> <br />
 ALKI <br /><img src="png/ALKI.png" width="200" /> <br />
+Arabian Magic (Capcom)\*\*\* <br /><img src="png/arab.png" width="200" /><br />
+Art of Fighting 2 (SNK)\*\*\* <br /><img src="png/aof2.png" width="200" /><br />
+Assault (Namco)\*\*\* <br /><img src="png/assault.png" width="200" /><br />
+Asterix (Konami)\*\*\* <br /><img src="png/astx.png" width="200" /><br />
+ATASCII\*\*\* <br /><img src="png/atascii.png" width="200" /><br />
+Aurail (Sega)\*\*\* <br /><img src="png/aura.png" width="200" /><br />
+Avengers (Capcom)\*\*\* <br /><img src="png/avng.png" width="200" /><br />
+Batsugun (Toaplan)\*\*\* <br /><img src="png/bats.png" width="200" /><br />
+Bay Route (Sega)\*\*\* <br /><img src="png/bayr.png" width="200" /><br />
+BattleCircuit (Capcom)\*\*\* <br /><img src="png/bcir.png" width="200" /><br />
+Battle Bakraid (Eighting)\*\*\* <br /><img src="png/bakr.png" width="200" /><br />
+Black Tiger (Capcom)\*\*\* <br /><img src="png/blkt.png" width="200" /><br />
 Blazing Star\*\*\* <br /><img src="png/STAR.png" width="200" /> <br />
+Blood Warrior (Kaneko)\*\*\* <br /><img src="png/blwa.png" width="200" /><br />
+Bonanza Bros (Sega)\*\*\* <br /><img src="png/bonz.png" width="200" /><br />
 BOLD <br /><img src="png/BOLD.png" width="200" /> <br />
+Boogie Wings (Data East)\*\*\* <br /><img src="png/boog.png" width="200" /><br />
 BOOM <br /><img src="png/BOOM.png" width="200" /> <br />
 BUBL <br /><img src="png/BUBL.png" width="200" /> <br />
 C64\*\* <br /><img src="png/C64.png" width="200" /> <br />
 Modified C64 <br /><img src="png/C64M.png" width="200" /> <br />
+Captain Sky Hawk (RARE)\*\*\* <br /><img src="png/cshk.png" width="200" /><br />
 Castlevania 3<br /><img src="png/Castlevania3.png" width="200" /> <br />
+Chiki Chiki Boys (Capcom)\*\*\* <br /><img src="png/chiki.png" width="200" /><br />
 CIRC <br /><img src="png/CIRC.png" width="200" /> <br />
+Cliffhanger - Edward Randy (DataEast)\*\*\* <br /><img src="png/cliff.png" width="200" /><br />
+Commando-Special (Capcom)\*\*\* <br /><img src="png/cmnds.png" width="200" /><br />
+Dance Dance Revolution (Konami)\*\*\* <br /><img src="png/DDR.png" width="200" /><br />
 Dangerous Seed\*\*\* <br /><img src="png/SEED.png" width="200" /> <br />
 DEFF <br /><img src="png/DEFF.png" width="200" /> <br />
+Detana Twinbee (Konami)\*\*\* <br /><img src="png/deta.png" width="200" /><br />
+Dimahoo (Raizing)\*\*\* <br /><img src="png/dima.png" width="200" /><br />
+DoDonPachi (Cave)\*\*\* <br /><img src="png/ddp.png" width="200" /><br />
 DOS Uppercase\* <br /><img src="png/DOSU.png" width="200" /> <br />
 DOS mod <br /><img src="png/DOSmod.png" width="200" /> <br />
+Dragon Breed (Irem)\*\*\* <br /><img src="png/drbr.png" width="200" /><br />
+Dragon Spirit (Namco)\*\*\* <br /><img src="png/dspir.png" width="200" /><br />
 DUMB <br /><img src="png/DUMB.png" width="200" /> <br />
 Dynamite Dux (slight mod)\*\*\* <br /><img src="png/DUX.png" width="200" /> <br />
+F1 Dream (Capcom)\*\*\* <br /><img src="png/f1dr.png" width="200" /><br />
+Fantasy Zone (Sega)\*\*\* <br /><img src="png/fz.png" width="200" /><br />
 Flak Attack\*\*\* <br /><img src="png/FLAK.png" width="200" /> <br />
 Flixel <br /><img src="png/FLXL.png" width="200" /> <br />
+Flying Shark (Taito)\*\*\* <br /><img src="png/flys.png" width="200" /><br />
+Gain Ground (Sega)\*\*\* <br /><img src="png/gain.png" width="200" /><br />
+Garou Densetsu (SNK)\*\*\* <br /><img src="png/garou.png" width="200" /><br />
+Ghosts n Goblins (Capcom)\*\*\* <br /><img src="png/gng1.png" width="200" /><br />
+Ghouls n Ghosts (Capcom)\*\*\* <br /><img src="png/gng2.png" width="200" /><br />
+Gondomania (Data East)\*\*\* <br /><img src="png/gond.png" width="200" /><br />
 Gradius 2\*\*\* <br /><img src="png/GRD2.png" width="200" /> <br />
 Gradius 3\*\*\* <br /><img src="png/GRD3.png" width="200" /> <br />
 Gradius 4\*\*\* <br /><img src="png/GRD4.png" width="200" /> <br />
+GunNail (NMK)\*\*\* <br /><img src="png/gunn.png" width="200" /><br />
+Gun.Smoke (Capcom)\*\*\* <br /><img src="png/guns.png" width="200" /><br />
+Hacha Mecha Fighter (NMK)\*\*\* <br /><img src="png/hach.png" width="200" /><br />
+Hat Trick Hero 95 (Taito)\*\*\* <br /><img src="png/hatt.png" width="200" /><br />
 IBM Console <br /><img src="png/IBMC.png" width="200" /> <br />
+Image Fight (IREM)\*\*\* <br /><img src="png/imgf.png" width="200" /><br />
+Last Resort (SNK)\*\*\* <br /><img src="png/last.png" width="200" /><br />
 Litro Lowercase <br /><img src="png/LTRL.png" width="200" /> <br />
 Litro Uppercase <br /><img src="png/LTRU.png" width="200" /> <br />
 Lizard NES <br /><img src="png/LZRD.png" width="200" /> <br />
+Kaiser Knuckle (Taito)\*\*\* <br /><img src="png/kais.png" width="200" /><br />
+Ketsui (Cave)\*\*\* <br /><img src="png/KETSUI.png" width="200" /><br />
+Kiki Kaikai (Taito)\*\*\* <br /><img src="png/kiki.png" width="200" /><br />
+King of Fighters 97 (SNK)\*\*\* <br /><img src="png/kof97.png" width="200" /><br />
+King of Fighters 2000 (SNK)\*\*\* <br /><img src="png/KoF2k.png" width="200" /><br />
+King of Fighters 2001 (SNK)\*\*\* <br /><img src="png/KoF2k1.png" width="200" /><br />
+Kirameki Star Road (Taito)\*\*\* <br /><img src="png/kira.png" width="200" /><br />
 KLAX†<br /><img src="png/KLAX.png" width="200" /> <br />
 Konami NES<br /><img src="png/KonamiNES.png" width="200" /> <br />
 KRYZ <br /><img src="png/KRYZ.png" width="200" /> <br />
 Mario Bros\*\* <br /><img src="png/MRIO1.png" width="200" /> <br />
 Modified Mario\*\* <br /><img src="png/MRIO.png" width="200" /> <br />
+Mars Matrix (Capcom)\*\*\* <br /><img src="png/mars.png" width="200" /><br />
 MECH <br /><img src="png/mech.png" width="200" /> <br />
 Metal Gear† <br /><img src="png/GEAR.png" width="200" /> <br />
 Modified LCD <br /><img src="png/LCD.png" width="200" /> <br />
