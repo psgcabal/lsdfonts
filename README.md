@@ -78,7 +78,6 @@ Gain Ground (Sega)\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neigh
 Garou Densetsu (SNK)\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/garou.png" width="200" /><br />
 Ghosts n Goblins (Capcom)\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/gng1.png" width="200" /><br />
 Ghouls n Ghosts (Capcom)\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/gng2.png" width="200" /><br />
-Gondomania (Data East)\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/gond.png" width="200" /><br />
 Gradius 2\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/GRD2.png" width="200" /> <br />
 Gradius 3\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/GRD3.png" width="200" /> <br />
 Gradius 4\*\*\* <br /><img style="-ms-interpolation-mode: nearest-neighbor !important; image-rendering: pixelated !important;" src="png/GRD4.png" width="200" /> <br />
